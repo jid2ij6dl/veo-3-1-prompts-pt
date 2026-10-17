@@ -1,0 +1,15 @@
+{
+  "id": "veo3.1-fast-ext",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-17T13:42:18Z",
+  "prices": {
+    "default": {
+      "list": 0.175,
+      "effective": 0.14
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.064 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/veo-3-1"
+}
